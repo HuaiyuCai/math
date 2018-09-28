@@ -6,6 +6,7 @@
 
 /* add */
 /* added */
+/* added */
 int add(int a, int b);
 
 #endif // _ADD_H_
