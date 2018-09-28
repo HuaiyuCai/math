@@ -5,6 +5,7 @@
 #include "../common_header/datatype.h"
 
 /* add */
+/* added */
 int add(int a, int b);
 
 #endif // _ADD_H_
